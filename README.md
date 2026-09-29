@@ -1,4 +1,4 @@
-# Node.js REST API with Supabase
+# node-express-supabase-api
 
 A learning project: a simple REST API built with Express and a Supabase PostgreSQL database.
 
